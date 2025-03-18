@@ -28,8 +28,10 @@ Here's the colour palette you should use:
 
 1. **Clone this repository:** Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Michael-cmd-sys/archilles_labs-training_abstract.git
+   git clone git@github.com:Michael-cmd-sys/archilles_labs-training_abstract.git
    ```
+   _This assumes you set up git and GitHub with ssh which is recommended_
+   
 2. **Navigate to the repository:** Use the `cd` command to navigate to the repository:
    ```bash
    cd archilles_labs-training-abstract
